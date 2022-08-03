@@ -23,4 +23,4 @@ Download and setup
 - [AnomalyUpdater](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/AnomalyUpdater.exe)
 
 ### License
-This software is licensed under the MIT License.
+This software is licensed under the MIT License
