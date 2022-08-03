@@ -18,7 +18,7 @@ C++ 2015+ Redistributable x64 and x86
 
 Download and setup
 - [Final Release](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases)
-- [AnomallyUpdater]()
+- [AnomallyUpdater](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/AnomalyUpdater.exe)
 
 ### License
 This software is licensed under the MIT License.
