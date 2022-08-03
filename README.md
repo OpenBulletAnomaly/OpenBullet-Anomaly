@@ -1,2 +1,24 @@
-# OpenBulletFinal
-OpenBulletAnomally
+<a href="https://github.com/OpenBulletAnomaly/releases"><img src="https://img.shields.io/badge/release-1.4.5-orange"></a> 
+
+### Screenshot
+
+![OpenBullet](https://user-images.githubusercontent.com/110566590/182718470-3193a28c-363a-4897-8610-540889854233.png)
+
+
+OpenBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results.
+This software can be used for scraping and parsing data, automated pentesting, unit testing through selenium and much more.
+
+IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is illegal! 
+The developer will not be held responsible for improper use of this software.
+
+### Required
+C++ 2015+ Redistributable x64 and x86
+
+#### Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-issue)
+
+Download and setup
+- [Final Release](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases)
+- [AnomallyUpdater]()
+
+### License
+This software is licensed under the MIT License.
