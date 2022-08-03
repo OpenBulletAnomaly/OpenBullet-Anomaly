@@ -20,7 +20,7 @@ The developer will not be held responsible for improper use of this software.
 
 Download and setup
 - [Final Release](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/OpenBullet-v1.4.5.zip)
-- [AnomallyUpdater](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/AnomalyUpdater.exe)
+- [AnomalyUpdater](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/AnomalyUpdater.exe)
 
 ### License
 This software is licensed under the MIT License.
