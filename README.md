@@ -12,7 +12,7 @@ IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not 
 The developer will not be held responsible for improper use of this software.
 
 ### Required
-C++ 2015+ Redistributable x64 and x86
+[C++ 2015+ Redistributable x64 and x86](https://www.microsoft.com/en-us/download/details.aspx?id=52685)
 
 #### Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-issue)
 
