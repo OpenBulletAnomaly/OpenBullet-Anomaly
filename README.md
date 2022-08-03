@@ -17,7 +17,7 @@ C++ 2015+ Redistributable x64 and x86
 #### Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-issue)
 
 Download and setup
-- [Final Release](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases)
+- [Final Release](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/OpenBullet-v1.4.5.zip)
 - [AnomallyUpdater](https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases/download/1.4.5/AnomalyUpdater.exe)
 
 ### License
