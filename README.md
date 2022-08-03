@@ -1,4 +1,6 @@
-<a href="https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases"><img src="https://img.shields.io/badge/release-1.4.5-orange"></a> 
+<p align="center">
+  <a href="https://github.com/OpenBulletAnomaly/OpenBulletFinal/releases"><img src="https://img.shields.io/badge/Release-1.4.5-blue"></a> 
+</p>
 
 ### Screenshot
 
