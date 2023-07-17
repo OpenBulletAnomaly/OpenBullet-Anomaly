@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://github.com/OpenBulletAnomaly/OpenBullet-Anomaly/releases"><img src="https://img.shields.io/badge/Release-1.4.5-blue"></a> 
+<a href="https://github.com/OpenBulletAnomaly/OpenBullet-Anomaly/releases"><img src="https://img.shields.io/badge/Release-1.4.5-black">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FOpenBulletAnomaly%2FOpenBullet-Anomaly.json&label=views&color=black">
+<img src="https://img.shields.io/github/downloads/OpenBulletAnomaly/OpenBullet-Anomaly/total?color=black">
+     <img src="https://img.shields.io/github/license/OpenBulletAnomaly/OpenBullet-Anomaly?color=black">
+
+  </a> 
 </p>
 
 ### Screenshot
