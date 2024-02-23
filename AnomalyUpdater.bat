@@ -16,19 +16,24 @@ SETLOCAL DisableDelayedExpansion
 echo.
 echo.
 color C
-echo Downloading Latest Update . . .
+echo [*] Downloading Latest Update . . .
+cd "%~dp0"
 powershell (New-Object System.Net.WebClient).Downloadfile('https://github.com/OpenBulletAnomaly/OpenBullet-Anomaly/releases/download/1.4.5/OpenBullet-v1.4.5.zip', 'OpenBullet-v1.4.5.zip') 
 color 3
-echo Extracting Files
-powershell.exe Expand-Archive -Path OpenBullet-v1.4.5.zip -DestinationPath OpenBullet-1.4.5 -Force 
-color 6
-echo Cleaning Up Temp Files !
-powershell Remove-Item -Path OpenBullet-v1.4.5.zip -Force
+echo [*] Extracting Files
+color 4
+echo [*] Downloading 7zip to decompress file
+powershell -Command "$7zip = New-Object System.Net.WebClient; $7zip.DownloadFile('https://github.com/OpenBulletAnomaly/OpenBullet-Anomaly/raw/main/7zip/7za.exe', '7za.exe')"
 color B
-echo Successfully Updated ! You may Now Run The Program.
-
+echo [*] Unpacking with 7zip
+7za.exe x -y -o"OpenBullet-v1.4.5" "OpenBullet-v1.4.5.zip" >NUL
+color 6
+echo [*] Cleaning Up Temp Files !
+powershell Remove-Item -Path "OpenBullet-v1.4.5.zip" -Force
+powershell Remove-Item -Path "7za.exe" -Force
+color A
+echo [*] Successfully Updated ! You may Now Run The Program.
 ENDLOCAL
-
 PAUSE
 ENDLOCAL & EXIT /B
 
