@@ -2,9 +2,10 @@
 </h1>
 <p align= "center">
    <img src="https://img.shields.io/badge/Release-1.4.5-black">
-   <img src="https://img.shields.io/github/downloads/OpenBulletAnomaly/OpenBullet-Anomaly/total?color=black">
    <img src="https://img.shields.io/github/license/OpenBulletAnomaly/OpenBullet-Anomaly?color=black">
-    <img src="https://hits.sh/github.com/OpenBulletAnomaly/OpenBullet-Anomaly.svg?label=views&color=000000&labelColor=9f9f9">
+   <img src="https://img.shields.io/github/stars/OpenBulletAnomaly/OpenBullet-Anomaly?style=flat&color=black">
+   <img src="https://img.shields.io/github/forks/OpenBulletAnomaly/OpenBullet-Anomaly?style=flat&color=black">
+
    <br>
 </p>
 
